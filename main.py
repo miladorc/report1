@@ -5,7 +5,7 @@ import tempfile
 import os
 import io
 
-report_type = ["گزارش پرداختی", "report2", "report3"]
+report_type = ["گزارش پرداختی", "براساس نوع عضویت", "report3"]
 
 st.title("Report Generator")
 
